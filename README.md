@@ -1,4 +1,4 @@
-# University Malaya Fundamental of Programming Course
+# University Malaya Computer System Architecture Course
 📘 WIA1003 CSA Lab Assignment\
 📖 Introduction
 
